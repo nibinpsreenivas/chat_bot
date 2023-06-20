@@ -2,7 +2,7 @@
 ## Screenshots
 
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/chat_bot/main/2.jpg)
-
+ 
 ## Setup
 note:you will need to put the api file in assets folder to run the project 
 Run the following commands from your terminal:
